@@ -18,3 +18,7 @@ This project implements an AI-based system for detecting and classifying PCB def
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Author
+Chakri Puram  
+Infosys Springboard Internship Project
