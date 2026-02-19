@@ -14,11 +14,11 @@ This project implements an AI-based system for detecting and classifying PCB def
 - OpenCV
 - Streamlit
 
+## Author
+Chakri Puram  
+Infosys Springboard Internship Project
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-## Author
-Chakri Puram  
-Infosys Springboard Internship Project
